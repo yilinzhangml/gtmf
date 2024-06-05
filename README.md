@@ -9,8 +9,8 @@ Available APIs of each dimensions are included in the following files:
 * Representativity: [representativity.py](representativity.py). We leverage [Balance](https://import-balance.org/)(A Meta open sourced package for balancing biased data samples) to calculate the sample weights internally. It also covers several metrics that we include in GTMF library.
 * Auccuracy: [accuracy.py](accuracy.py)
 * Reliability: [reliability.py](reliability.py)
-* Metric variance: [metric_variance.py](metric_variance.py)
-* Efficiency: [efficiency.py](efficiency.py)
+* Aggregated Variance: [aggregated_variance.py](metric_variance.py)
+* Cost Efficiency: [efficiency.py](efficiency.py)
 
 Jupyter Notebook Examples are under the folder [jupyter_notebook_example](jupyter_notebook_example)
 
